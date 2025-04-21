@@ -1,2 +1,2 @@
 # rust
-Estudos envolvend Rust
+Estudos envolvendo Rust
